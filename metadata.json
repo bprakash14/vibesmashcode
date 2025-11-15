@@ -1,0 +1,5 @@
+{
+  "name": "VibeSmashCode",
+  "description": "An AI-powered code reviewer for no-code developers. Paste a GitHub URL to get a traffic signal score, a breakdown of vulnerabilities (security, performance, logic), and copy-paste remediation prompts to fix your code's vibe.",
+  "requestFramePermissions": []
+}
